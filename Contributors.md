@@ -1,14 +1,14 @@
 # Contributors
-hello ji 
+
 - [M. Fajal](https://github.com/Mfaj-cod)
--[Neha Dubey](https://github.com/Nehainit)
+- [Neha Dubey](https://github.com/Nehainit)
 - [Satyanshi Singh](https://github.com/23f3004132)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
 - [Pankaj vishwakarma](https://github.com/pk-arma)
 - [Yashi Chaudhary](https://github.com/Yashee05)
 - [Thecapstone Mogbolu](https://github.com/Thecapstone)
-[- k-mirembe-mercy]
- [Likitha Tummapudi](https://github.com/LikithaTummapudi)
+- [k-mirembe-mercy]
+- [Likitha Tummapudi](https://github.com/LikithaTummapudi)
 - [Aya Driouche](https://github.com/aya119119)
 - [Gloria Iseghehi](https://github.com/Glowriaose)
 - [Jitendra Kumar](https://github.com/23f1000704)
@@ -46,6 +46,7 @@ hello ji
   [Isly NN]
 - [Victor Almeida](https://github.com/vma5)
 - [CP2]
+- [PWD](https://github.com/PWD-27)
 - [Muhsil NR](https://github.com/mhlohh)
 - [Anika](https://github.com/MsAnika)
 - [skntrl] (https://github.com/skntrl)
